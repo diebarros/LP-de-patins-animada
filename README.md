@@ -17,7 +17,7 @@ Módulo prático de HTML e CSS do curso FullStack, promovido pela Rocketseat par
 <br>
 
 <p align="center">
-  <img alt="LP de Patins Animada" src="https://github.com/diebarros/Formulario-de-matricula/blob/main/assets/Thumbnail.png">
+  <img alt="LP de Patins Animada" src="https://github.com/diebarros/LP-de-patins-animada/blob/master/Thumbnail.png">
 </p>
 
 ## 🚀 Tecnologias
